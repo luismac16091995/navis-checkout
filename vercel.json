@@ -1,5 +1,6 @@
 {
   "rewrites": [
-    { "source": "/pagar", "destination": "/api/pagar.js" }
+    { "source": "/pagar", "destination": "/api/pagar.js" },
+    { "source": "/webhook", "destination": "/api/webhook.js" }
   ]
 }
